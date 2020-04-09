@@ -59,7 +59,7 @@ class Track(track.Track):
         self._data_home = data_home
         self._track_paths = DATA.index[track_id]
         self.beats_path = utils.none_path_join(
-            [self._data_home, self._track_paths['beat'][0]]
+            [self._data_home, self._track_paths['beats'][0]]
         )
         self.chords_path = os.path.join(self._data_home, self._track_paths['chords'][0])
         self.keys_path = utils.none_path_join(

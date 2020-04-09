@@ -4,7 +4,7 @@
       "audio/02_-_With_the_Beatles/01_-_It_Won't_Be_Long.wav",
       "2cebdf1aed0beca7159f56849c2836b6"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/02_-_With_the_Beatles/01_-_It_Won't_Be_Long.txt",
       "f805bf636115331b856818ee56fa533c"
     ],
@@ -26,7 +26,7 @@
       "audio/02_-_With_the_Beatles/02_-_All_I've_Got_To_Do.wav",
       "93cd687666b30dbe81e1c88831ffa4b6"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/02_-_With_the_Beatles/02_-_All_I've_Got_To_Do.txt",
       "149044abf9876f0dfac0adb8f35625d9"
     ],
@@ -48,7 +48,7 @@
       "audio/02_-_With_the_Beatles/03_-_All_My_Loving.wav",
       "8bd653d08dea90e46ce673f6644c2bbb"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/02_-_With_the_Beatles/03_-_All_My_Loving.txt",
       "71c040bd33013a306c771f7b73e960ce"
     ],
@@ -70,7 +70,7 @@
       "audio/02_-_With_the_Beatles/04_-_Don't_Bother_Me.wav",
       "09af495b7920bdaf8c1d16e174b918ae"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/02_-_With_the_Beatles/04_-_Don't_Bother_Me.txt",
       "271423a18792f471652c8b3622564250"
     ],
@@ -92,7 +92,7 @@
       "audio/02_-_With_the_Beatles/05_-_Little_Child.wav",
       "dd85a6b4758c77ebc47f7ec352d66ec3"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/02_-_With_the_Beatles/05_-_Little_Child.txt",
       "813606c666d9d0eb65819eca482a615b"
     ],
@@ -114,7 +114,7 @@
       "audio/02_-_With_the_Beatles/06_-_Till_There_Was_You.wav",
       "eff6de00934b8a630c31c326bee18aec"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/02_-_With_the_Beatles/06_-_Till_There_Was_You.txt",
       "8a2da5278ba282d9ad67da7d692758a5"
     ],
@@ -136,7 +136,7 @@
       "audio/02_-_With_the_Beatles/07_-_Please_Mister_Postman.wav",
       "2820a76ca5f1c5fb00b05659ddfcf5a6"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/02_-_With_the_Beatles/07_-_Please_Mister_Postman.txt",
       "59583cf6148a4d5213237fb89adcb60b"
     ],
@@ -158,7 +158,7 @@
       "audio/02_-_With_the_Beatles/08_-_Roll_Over_Beethoven.wav",
       "4868cb7eacfca7b363684475c0bffc55"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/02_-_With_the_Beatles/08_-_Roll_Over_Beethoven.txt",
       "66f0842839626e25275c09160b357ebd"
     ],
@@ -180,7 +180,7 @@
       "audio/02_-_With_the_Beatles/09_-_Hold_Me_Tight.wav",
       "49d28be2065a8254d5f0bc987f75067b"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/02_-_With_the_Beatles/09_-_Hold_Me_Tight.txt",
       "e0f744ec827a4ed5972984890d7d13f4"
     ],
@@ -202,7 +202,7 @@
       "audio/02_-_With_the_Beatles/10_-_You_Really_Got_A_Hold_On_Me.wav",
       "614df6c7c7bfebc250614394d11db4d1"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/02_-_With_the_Beatles/10_-_You_Really_Got_A_Hold_On_Me.txt",
       "67e8488f0cfb61bd1e9f26d81d1a899b"
     ],
@@ -224,7 +224,7 @@
       "audio/02_-_With_the_Beatles/11_-_I_Wanna_Be_Your_Man.wav",
       "bcbb825ceabf1321e13251b11d2692ae"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/02_-_With_the_Beatles/11_-_I_Wanna_Be_Your_Man.txt",
       "b79c0421528c05e6a9ec7c35070ff2a3"
     ],
@@ -246,7 +246,7 @@
       "audio/02_-_With_the_Beatles/12_-_Devil_In_Her_Heart.wav",
       "cfccd1e9e239202c446a9f19a9f66adc"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/02_-_With_the_Beatles/12_-_Devil_In_Her_Heart.txt",
       "3337af55d7793eb4cdda39c55df24677"
     ],
@@ -268,7 +268,7 @@
       "audio/02_-_With_the_Beatles/13_-_Not_A_Second_Time.wav",
       "435298a31d52d538d0b7e40b9a6f2533"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/02_-_With_the_Beatles/13_-_Not_A_Second_Time.txt",
       "d97fcfcadfc3c4ce63f8229d863cc858"
     ],
@@ -290,7 +290,7 @@
       "audio/02_-_With_the_Beatles/14_-_Money.wav",
       "a63fb0b1b2cddc05b283db69fbf7c051"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/02_-_With_the_Beatles/14_-_Money.txt",
       "1b7f2618498530577edf61fb128156e7"
     ],
@@ -312,7 +312,7 @@
       "audio/04_-_Beatles_for_Sale/01_-_No_Reply.wav",
       "3ea83c6f60e3a02016d38b518178d436"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/04_-_Beatles_for_Sale/01_-_No_Reply.txt",
       "11f00c9ea6f84e5ff0c570d5a4089f39"
     ],
@@ -334,7 +334,7 @@
       "audio/04_-_Beatles_for_Sale/02_-_I'm_a_Loser.wav",
       "c1d12aaeab7b37a6b929eb07187dde82"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/04_-_Beatles_for_Sale/02_-_I'm_a_Loser.txt",
       "c85c7d4e1ae3a2cdb5c553de91443cfa"
     ],
@@ -356,7 +356,7 @@
       "audio/04_-_Beatles_for_Sale/03_-_Baby's_In_Black.wav",
       "bd4a643ef9248b4c7c1e3a9394d059af"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/04_-_Beatles_for_Sale/03_-_Baby's_In_Black.txt",
       "9b66901fc53e4840bcb44e837e2bc1cc"
     ],
@@ -378,7 +378,7 @@
       "audio/04_-_Beatles_for_Sale/04_-_Rock_and_Roll_Music.wav",
       "222aa15743d65cbcb97207a7c88741cd"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/04_-_Beatles_for_Sale/04_-_Rock_and_Roll_Music.txt",
       "12c9c0b75375c4223531dc0c6e337a36"
     ],
@@ -400,7 +400,7 @@
       "audio/04_-_Beatles_for_Sale/05_-_I'll_Follow_the_Sun.wav",
       "9c51911ffd1f1e14f206281b27f79cd3"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/04_-_Beatles_for_Sale/05_-_I'll_Follow_the_Sun.txt",
       "417910f38de8059415ba5767bf671dc5"
     ],
@@ -422,7 +422,7 @@
       "audio/04_-_Beatles_for_Sale/06_-_Mr._Moonlight.wav",
       "12adac49ea1ff8c3a41cd861a0093284"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/04_-_Beatles_for_Sale/06_-_Mr._Moonlight.txt",
       "0c47b645a04c99b92b34ce030c042804"
     ],
@@ -444,7 +444,7 @@
       "audio/04_-_Beatles_for_Sale/07_-_Kansas_City-_Hey,_Hey,_Hey,_Hey.wav",
       "98dd5cc491e98d63e0630b34b29787d3"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/04_-_Beatles_for_Sale/07_-_Kansas_City-_Hey,_Hey,_Hey,_Hey.txt",
       "348f4b9e46de74dad361846293a631ae"
     ],
@@ -466,7 +466,7 @@
       "audio/04_-_Beatles_for_Sale/08_-_Eight_Days_a_Week.wav",
       "d7a24474b729a85a78a53753512532f0"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/04_-_Beatles_for_Sale/08_-_Eight_Days_a_Week.txt",
       "453c7433df43cae605d2a01aa1f0d797"
     ],
@@ -488,7 +488,7 @@
       "audio/04_-_Beatles_for_Sale/09_-_Words_of_Love.wav",
       "f5439e64d44671904f56e8db9d2d20fe"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/04_-_Beatles_for_Sale/09_-_Words_of_Love.txt",
       "1bbf71606618313a7a4f8733211170e5"
     ],
@@ -510,7 +510,7 @@
       "audio/04_-_Beatles_for_Sale/10_-_Honey_Don't.wav",
       "862bcf8fe610c2125d2423e9066ae740"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/04_-_Beatles_for_Sale/10_-_Honey_Don't.txt",
       "4f315d701d94b870f75d2bc18b10bc80"
     ],
@@ -532,7 +532,7 @@
       "audio/04_-_Beatles_for_Sale/11_-_Every_Little_Thing.wav",
       "e8367c5f5bcbd71dff1590907a738e9a"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/04_-_Beatles_for_Sale/11_-_Every_Little_Thing.txt",
       "ab6204e08ac96be594d0fd6d631d0cc6"
     ],
@@ -554,7 +554,7 @@
       "audio/04_-_Beatles_for_Sale/12_-_I_Don't_Want_to_Spoil_the_Party.wav",
       "c21d66f7dd3c81e0357ee05764400127"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/04_-_Beatles_for_Sale/12_-_I_Don't_Want_to_Spoil_the_Party.txt",
       "46d8b8a4311fe4ec6ec5d2fc8829959b"
     ],
@@ -576,7 +576,7 @@
       "audio/04_-_Beatles_for_Sale/13_-_What_You're_Doing.wav",
       "c1578712c410747b6f5de3d52d0fc550"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/04_-_Beatles_for_Sale/13_-_What_You're_Doing.txt",
       "a66ff456c9ed7059ea0c97e407b88b6d"
     ],
@@ -598,7 +598,7 @@
       "audio/04_-_Beatles_for_Sale/14_-_Everybody's_Trying_to_Be_My_Baby.wav",
       "b5dc4370ae3e86cab07e8c4f07d9dd37"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/04_-_Beatles_for_Sale/14_-_Everybody's_Trying_to_Be_My_Baby.txt",
       "b8e7c4865e71a9a2417cfdef8d3e74b2"
     ],
@@ -620,7 +620,7 @@
       "audio/03_-_A_Hard_Day's_Night/01_-_A_Hard_Day's_Night.wav",
       "f4f35ceb6c70c0cd51ce689b16ba0f9f"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/03_-_A_Hard_Day's_Night/01_-_A_Hard_Day's_Night.txt",
       "20c2d0e3dd2dfccaf2fa2eda5609c0de"
     ],
@@ -642,7 +642,7 @@
       "audio/03_-_A_Hard_Day's_Night/02_-_I_Should_Have_Known_Better.wav",
       "0ddf62e45ac3b82b84348bb52b2b8e7b"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/03_-_A_Hard_Day's_Night/02_-_I_Should_Have_Known_Better.txt",
       "09eb194cb5d048f3a1a5e30e702c386e"
     ],
@@ -664,7 +664,7 @@
       "audio/03_-_A_Hard_Day's_Night/03_-_If_I_Fell.wav",
       "b1b980a6a01687938b69d97c24d89d68"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/03_-_A_Hard_Day's_Night/03_-_If_I_Fell.txt",
       "03a4c9192a55d844c57e4dab7baa3b22"
     ],
@@ -686,7 +686,7 @@
       "audio/03_-_A_Hard_Day's_Night/04_-_I'm_Happy_Just_To_Dance_With_You.wav",
       "34f57b5afa606c1f8e99cf4580a62f58"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/03_-_A_Hard_Day's_Night/04_-_I'm_Happy_Just_To_Dance_With_You.txt",
       "ed78e6479ca00bf67fdf82f3ece983cd"
     ],
@@ -708,7 +708,7 @@
       "audio/03_-_A_Hard_Day's_Night/05_-_And_I_Love_Her.wav",
       "8aee4793e785636174f3c59f6378830b"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/03_-_A_Hard_Day's_Night/05_-_And_I_Love_Her.txt",
       "6b918defd5092c70632f06e1657b7c8a"
     ],
@@ -730,7 +730,7 @@
       "audio/03_-_A_Hard_Day's_Night/06_-_Tell_Me_Why.wav",
       "91e30b1a3e56183ae20498f831f4c7d0"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/03_-_A_Hard_Day's_Night/06_-_Tell_Me_Why.txt",
       "0b2170ae687733a5e086d318943bb9d7"
     ],
@@ -752,7 +752,7 @@
       "audio/03_-_A_Hard_Day's_Night/07_-_Can't_Buy_Me_Love.wav",
       "135012f73e1082fb6793bd8ddf6380cc"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/03_-_A_Hard_Day's_Night/07_-_Can't_Buy_Me_Love.txt",
       "c743f71f8ccf65a0b8ce1c87b246cd6b"
     ],
@@ -774,7 +774,7 @@
       "audio/03_-_A_Hard_Day's_Night/08_-_Any_Time_At_All.wav",
       "98b94395dc177641fdb9a006500d9da2"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/03_-_A_Hard_Day's_Night/08_-_Any_Time_At_All.txt",
       "06711ec958e1b53276a27069b3fce2af"
     ],
@@ -796,7 +796,7 @@
       "audio/03_-_A_Hard_Day's_Night/09_-_I'll_Cry_Instead.wav",
       "7e6c73f557558cc8753a13c2a90569af"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/03_-_A_Hard_Day's_Night/09_-_I'll_Cry_Instead.txt",
       "8331c14bea6a20fc1a7c6d1c01352d20"
     ],
@@ -818,7 +818,7 @@
       "audio/03_-_A_Hard_Day's_Night/10_-_Things_We_Said_Today.wav",
       "806ebf1b32e69ed32983e628e4274f33"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/03_-_A_Hard_Day's_Night/10_-_Things_We_Said_Today.txt",
       "9a8b31944fef447aed276cd0977bac4a"
     ],
@@ -840,7 +840,7 @@
       "audio/03_-_A_Hard_Day's_Night/11_-_When_I_Get_Home.wav",
       "50a5550e1e7ca7dbcaefa1a3df0e02fc"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/03_-_A_Hard_Day's_Night/11_-_When_I_Get_Home.txt",
       "1de1585fa320b2f84f2e5f1d1621ebfe"
     ],
@@ -862,7 +862,7 @@
       "audio/03_-_A_Hard_Day's_Night/12_-_You_Can't_Do_That.wav",
       "65920d930b2ea2df0e218767d04a7aee"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/03_-_A_Hard_Day's_Night/12_-_You_Can't_Do_That.txt",
       "fafa3af5fbd3d188255525be90f3aed8"
     ],
@@ -884,7 +884,7 @@
       "audio/03_-_A_Hard_Day's_Night/13_-_I'll_Be_Back.wav",
       "046f4fb69b861811626aa192c8e7090b"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/03_-_A_Hard_Day's_Night/13_-_I'll_Be_Back.txt",
       "164ff5ce7a5694f7c3610ea629fb1563"
     ],
@@ -906,7 +906,7 @@
       "audio/01_-_Please_Please_Me/01_-_I_Saw_Her_Standing_There.wav",
       "b72fc7a5e353e1fbb0f6922302cb9c34"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/01_-_Please_Please_Me/01_-_I_Saw_Her_Standing_There.txt",
       "2070df8c62d9573f2221d764facfba0b"
     ],
@@ -928,7 +928,7 @@
       "audio/01_-_Please_Please_Me/02_-_Misery.wav",
       "64ecc7ada77096e7c39213d3f5c8b8f5"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/01_-_Please_Please_Me/02_-_Misery.txt",
       "0b435ca099f51f68290533c1b478d389"
     ],
@@ -950,7 +950,7 @@
       "audio/01_-_Please_Please_Me/03_-_Anna_(Go_To_Him).wav",
       "e568f4b45dacd126d04ee2c9b2373e3d"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/01_-_Please_Please_Me/03_-_Anna_(Go_To_Him).txt",
       "8cdae9766d052c91e6d280f2a0b8650d"
     ],
@@ -972,7 +972,7 @@
       "audio/01_-_Please_Please_Me/04_-_Chains.wav",
       "d1a1c28069875ea8c2a806e168e7cba5"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/01_-_Please_Please_Me/04_-_Chains.txt",
       "9f0751c7b0d51127a8e5094fdfba021e"
     ],
@@ -994,7 +994,7 @@
       "audio/01_-_Please_Please_Me/05_-_Boys.wav",
       "5b3f959c881511dbf52051426069baad"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/01_-_Please_Please_Me/05_-_Boys.txt",
       "c0b4a2b769ba22b77cd6396aaf4d23f8"
     ],
@@ -1016,7 +1016,7 @@
       "audio/01_-_Please_Please_Me/06_-_Ask_Me_Why.wav",
       "4b4e67d20f93231681aed77389b68ab4"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/01_-_Please_Please_Me/06_-_Ask_Me_Why.txt",
       "a2802f7aacb5cfae8402f290dcc2a6fb"
     ],
@@ -1038,7 +1038,7 @@
       "audio/01_-_Please_Please_Me/07_-_Please_Please_Me.wav",
       "7d779608982fe207cc3d6cc8fc33388d"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/01_-_Please_Please_Me/07_-_Please_Please_Me.txt",
       "7f4d51de2c2f8a37e049d490b62d978c"
     ],
@@ -1060,7 +1060,7 @@
       "audio/01_-_Please_Please_Me/08_-_Love_Me_Do.wav",
       "6f07a51987a76cde082a23d3fbd3557e"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/01_-_Please_Please_Me/08_-_Love_Me_Do.txt",
       "f27a4669cc43836688bac7ffb97b77e2"
     ],
@@ -1082,7 +1082,7 @@
       "audio/01_-_Please_Please_Me/09_-_P._S._I_Love_You.wav",
       "d6626d4a863b55527a5d6765073a7716"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/01_-_Please_Please_Me/09_-_P._S._I_Love_You.txt",
       "8c6c44c500193dc61105a1685ce88459"
     ],
@@ -1104,7 +1104,7 @@
       "audio/01_-_Please_Please_Me/10_-_Baby_It's_You.wav",
       "f1a5026f88adc6d6d69b6e28188d3465"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/01_-_Please_Please_Me/10_-_Baby_It's_You.txt",
       "4f6557c1a006386d120eff55e0ab3e29"
     ],
@@ -1126,7 +1126,7 @@
       "audio/01_-_Please_Please_Me/11_-_Do_You_Want_To_Know_A_Secret.wav",
       "1b57c2f78ae0f19eed1ae7fbf747e12d"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/01_-_Please_Please_Me/11_-_Do_You_Want_To_Know_A_Secret.txt",
       "f698ad2d802bf62fe10f59ea8b4af9f6"
     ],
@@ -1148,7 +1148,7 @@
       "audio/01_-_Please_Please_Me/12_-_A_Taste_Of_Honey.wav",
       "8f2d238db2aa3298db5a4f6dd58f66be"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/01_-_Please_Please_Me/12_-_A_Taste_Of_Honey.txt",
       "8400e85e3142531687994c43cb70bd3b"
     ],
@@ -1170,7 +1170,7 @@
       "audio/01_-_Please_Please_Me/13_-_There's_A_Place.wav",
       "bd39ab76e8897b2d18acb74afb60c510"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/01_-_Please_Please_Me/13_-_There's_A_Place.txt",
       "8ded04088e142d4bd3e83241121e554d"
     ],
@@ -1192,7 +1192,7 @@
       "audio/01_-_Please_Please_Me/14_-_Twist_And_Shout.wav",
       "7e8ece3eb30750c7ccd483b0d7db9b1f"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/01_-_Please_Please_Me/14_-_Twist_And_Shout.txt",
       "f6f725d53bfaa21c3e62044083f8b310"
     ],
@@ -1214,7 +1214,7 @@
       "audio/07_-_Revolver/01_-_Taxman.wav",
       "0a390732941c0e99d28f1bc4801f2744"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/07_-_Revolver/01_-_Taxman.txt",
       "bf5e4d7a78d19365ad346a231afd942c"
     ],
@@ -1236,7 +1236,7 @@
       "audio/07_-_Revolver/02_-_Eleanor_Rigby.wav",
       "b92b26175e2c73511bfe8455ac2ac7b7"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/07_-_Revolver/02_-_Eleanor_Rigby.txt",
       "604223a366d4da5ba0cdc723f66bfab0"
     ],
@@ -1258,7 +1258,7 @@
       "audio/07_-_Revolver/03_-_I'm_Only_Sleeping.wav",
       "e7c620ed8f973ffa4420ad1480d4720c"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/07_-_Revolver/03_-_I'm_Only_Sleeping.txt",
       "85644ddcf112e3314e0d8c455f0b0a0a"
     ],
@@ -1280,7 +1280,7 @@
       "audio/07_-_Revolver/04_-_Love_You_To.wav",
       "bf89208cb482c1f350ff00033ec7506a"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/07_-_Revolver/04_-_Love_You_To.txt",
       "ba6877a01fd3b9209dcf42a09de69deb"
     ],
@@ -1302,7 +1302,7 @@
       "audio/07_-_Revolver/05_-_Here,_There_And_Everywhere.wav",
       "23646b679c560c1686e76af0236e3665"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/07_-_Revolver/05_-_Here,_There_And_Everywhere.txt",
       "b794f70f6dc9d720102c43333cf47bbc"
     ],
@@ -1324,7 +1324,7 @@
       "audio/07_-_Revolver/06_-_Yellow_Submarine.wav",
       "bef5bf2fe602095d0b02aaaa1a15b484"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/07_-_Revolver/06_-_Yellow_Submarine.txt",
       "8d83339cc6a2ce68a06b868d2c9d8076"
     ],
@@ -1346,7 +1346,7 @@
       "audio/07_-_Revolver/07_-_She_Said_She_Said.wav",
       "b341a75a7849f70edef0ea2d06f7d6ea"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/07_-_Revolver/07_-_She_Said_She_Said.txt",
       "affb7e5c659ab0a8bd2d4a6be46d8014"
     ],
@@ -1368,7 +1368,7 @@
       "audio/07_-_Revolver/08_-_Good_Day_Sunshine.wav",
       "3086a3db86922cfac2b3687e72a77ea4"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/07_-_Revolver/08_-_Good_Day_Sunshine.txt",
       "7fe71f443cc3d185918958dfed7eef50"
     ],
@@ -1390,7 +1390,7 @@
       "audio/07_-_Revolver/09_-_And_Your_Bird_Can_Sing.wav",
       "1b4a49fe732db7ac63ad6ad3c5b11e8d"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/07_-_Revolver/09_-_And_Your_Bird_Can_Sing.txt",
       "10f5499251e33e3500e930ec277385a0"
     ],
@@ -1412,7 +1412,7 @@
       "audio/07_-_Revolver/10_-_For_No_One.wav",
       "569d29dc37ee0d8abf6c0fba7cc9afe5"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/07_-_Revolver/10_-_For_No_One.txt",
       "49214d35d55d14ab04a152cbaa8b21d3"
     ],
@@ -1434,7 +1434,7 @@
       "audio/07_-_Revolver/11_-_Doctor_Robert.wav",
       "8feb73a2b80f7153472f54c455315123"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/07_-_Revolver/11_-_Doctor_Robert.txt",
       "4921579f7a07e53177e33faf15a01b65"
     ],
@@ -1456,7 +1456,7 @@
       "audio/07_-_Revolver/12_-_I_Want_To_Tell_You.wav",
       "09c832fb125c33a1fe2e3352fc9839fd"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/07_-_Revolver/12_-_I_Want_To_Tell_You.txt",
       "7b301fd5cf1c1e80903b61596d884673"
     ],
@@ -1478,7 +1478,7 @@
       "audio/07_-_Revolver/13_-_Got_To_Get_You_Into_My_Life.wav",
       "900c5a9b10b9ca7e4297bb47ae188ee1"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/07_-_Revolver/13_-_Got_To_Get_You_Into_My_Life.txt",
       "84efbc46d0aca087cdad10ec58ecf5a4"
     ],
@@ -1500,7 +1500,7 @@
       "audio/07_-_Revolver/14_-_Tomorrow_Never_Knows.wav",
       "91fd441164f843355b63cdbf1719f45a"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/07_-_Revolver/14_-_Tomorrow_Never_Knows.txt",
       "8ecaf7e03b5e34e4cce7a7d6fccc5e33"
     ],
@@ -1522,7 +1522,7 @@
       "audio/11_-_Abbey_Road/01_-_Come_Together.wav",
       "1c01e96517fd1a105e97b1a6ddf69cc4"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/11_-_Abbey_Road/01_-_Come_Together.txt",
       "3d238c6f8e100ae76cdf07e7bf060be3"
     ],
@@ -1544,7 +1544,7 @@
       "audio/11_-_Abbey_Road/02_-_Something.wav",
       "405472cbf78b82d386d5b60c61deadca"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/11_-_Abbey_Road/02_-_Something.txt",
       "c6dbd9a19420567e33d6b7556a18ec28"
     ],
@@ -1566,7 +1566,7 @@
       "audio/11_-_Abbey_Road/03_-_Maxwell's_Silver_Hammer.wav",
       "dab7846e4c0a01236851fdc9a1fb2faa"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/11_-_Abbey_Road/03_-_Maxwell's_Silver_Hammer.txt",
       "4b3797b7308d6b89399fa2cce515770f"
     ],
@@ -1588,7 +1588,7 @@
       "audio/11_-_Abbey_Road/04_-_Oh!_Darling.wav",
       "8dbf9725d81dad9113d198afbde61acd"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/11_-_Abbey_Road/04_-_Oh!_Darling.txt",
       "11fa891f4226b26ed9b17f53a17db715"
     ],
@@ -1610,7 +1610,7 @@
       "audio/11_-_Abbey_Road/05_-_Octopus's_Garden.wav",
       "510597d5ef9ba9a43fed1d490e072d89"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/11_-_Abbey_Road/05_-_Octopus's_Garden.txt",
       "3944d1cc80d79bc3dbfa2e723c5695e7"
     ],
@@ -1632,7 +1632,7 @@
       "audio/11_-_Abbey_Road/06_-_I_Want_You.wav",
       "cd9cfab436015f1f8b52b84c6864a40b"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/11_-_Abbey_Road/06_-_I_Want_You.txt",
       "df66e69dc47e74edade4272524b783ed"
     ],
@@ -1654,7 +1654,7 @@
       "audio/11_-_Abbey_Road/07_-_Here_Comes_The_Sun.wav",
       "d5c1cbdd03a854fc48e9318d1afb4c18"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/11_-_Abbey_Road/07_-_Here_Comes_The_Sun.txt",
       "313bc7bb3b9e227a49aa520cd95ae96a"
     ],
@@ -1676,7 +1676,7 @@
       "audio/11_-_Abbey_Road/08_-_Because.wav",
       "addc287ea0a445616258d2f39936f358"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/11_-_Abbey_Road/08_-_Because.txt",
       "1f435d09d0663f37197b6209c64ecbb1"
     ],
@@ -1698,7 +1698,7 @@
       "audio/11_-_Abbey_Road/09_-_You_Never_Give_Me_Your_Money.wav",
       "f39ab99c8ef6484b5ad092cba010c6dc"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/11_-_Abbey_Road/09_-_You_Never_Give_Me_Your_Money.txt",
       "9d9ee6bf72e8b9ef46631384d12e76cc"
     ],
@@ -1720,7 +1720,7 @@
       "audio/11_-_Abbey_Road/10_-_Sun_King.wav",
       "47e0f9e6f0e1c877ca804f7e96f73152"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/11_-_Abbey_Road/10_-_Sun_King.txt",
       "9a5211bd6ea05973db8cc6bfba0d9113"
     ],
@@ -1742,7 +1742,7 @@
       "audio/11_-_Abbey_Road/11_-_Mean_Mr_Mustard.wav",
       "4755fea640a2ae192219ed9717ea2dca"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/11_-_Abbey_Road/11_-_Mean_Mr_Mustard.txt",
       "a363e0f1fb446c6646422fd16ef5813c"
     ],
@@ -1764,7 +1764,7 @@
       "audio/11_-_Abbey_Road/12_-_Polythene_Pam.wav",
       "1aafc303b0f03ea087fe8f767e5ff9d9"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/11_-_Abbey_Road/12_-_Polythene_Pam.txt",
       "2e4f761f8a124cc187940875922c0242"
     ],
@@ -1786,7 +1786,7 @@
       "audio/11_-_Abbey_Road/13_-_She_Came_In_Through_The_Bathroom_Window.wav",
       "27547436c44c75870b00834b71a1a441"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/11_-_Abbey_Road/13_-_She_Came_In_Through_The_Bathroom_Window.txt",
       "bbcbbaad01caa0a875bfde67ac4692a6"
     ],
@@ -1808,7 +1808,7 @@
       "audio/11_-_Abbey_Road/14_-_Golden_Slumbers.wav",
       "d23ec447588885235072972b959adb09"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/11_-_Abbey_Road/14_-_Golden_Slumbers.txt",
       "d4cb7081311d4772afca6292b13faa8d"
     ],
@@ -1830,7 +1830,7 @@
       "audio/11_-_Abbey_Road/15_-_Carry_That_Weight.wav",
       "e7e8335d27526f38093bd0f8c931e3f4"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/11_-_Abbey_Road/15_-_Carry_That_Weight.txt",
       "0ab448355a5a5da7306c2d5a2350d07b"
     ],
@@ -1852,7 +1852,7 @@
       "audio/11_-_Abbey_Road/16_-_The_End.wav",
       "fcdf9d894f8675f877caf5e53420d59c"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/11_-_Abbey_Road/16_-_The_End.txt",
       "7795f791b1bc55ecdd4947424c6f38be"
     ],
@@ -1874,7 +1874,7 @@
       "audio/11_-_Abbey_Road/17_-_Her_Majesty.wav",
       "5779e1881da328671dff168fdc7121f1"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/11_-_Abbey_Road/17_-_Her_Majesty.txt",
       "98d6e10c345fe8de96ba325ff0ad61ea"
     ],
@@ -1896,7 +1896,7 @@
       "audio/06_-_Rubber_Soul/01_-_Drive_My_Car.wav",
       "c31f061a08961c6f8e6987f47db1169d"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/06_-_Rubber_Soul/01_-_Drive_My_Car.txt",
       "1c24d3290b311e532a6f322da763925d"
     ],
@@ -1918,7 +1918,7 @@
       "audio/06_-_Rubber_Soul/02_-_Norwegian_Wood_(This_Bird_Has_Flown).wav",
       "570ed57308355dd7738afd33dd336321"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/06_-_Rubber_Soul/02_-_Norwegian_Wood_(This_Bird_Has_Flown).txt",
       "7a8c8c2f238bd7bb6610451dc16dc61d"
     ],
@@ -1940,7 +1940,7 @@
       "audio/06_-_Rubber_Soul/03_-_You_Won't_See_Me.wav",
       "7b3900daf8623703176bc10d3997db5f"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/06_-_Rubber_Soul/03_-_You_Won't_See_Me.txt",
       "b4cc25592634d344c682b219cd3456b5"
     ],
@@ -1962,7 +1962,7 @@
       "audio/06_-_Rubber_Soul/04_-_Nowhere_Man.wav",
       "c5ddc7982f10cf762222725f1a16f2c2"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/06_-_Rubber_Soul/04_-_Nowhere_Man.txt",
       "5fe8df9258fe21da61e610db1955bf4a"
     ],
@@ -1984,7 +1984,7 @@
       "audio/06_-_Rubber_Soul/05_-_Think_For_Yourself.wav",
       "6deb71209c4602f1da7815dff97d2360"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/06_-_Rubber_Soul/05_-_Think_For_Yourself.txt",
       "45aced2d3348da49e5dca390fef58e44"
     ],
@@ -2006,7 +2006,7 @@
       "audio/06_-_Rubber_Soul/06_-_The_Word.wav",
       "d135b1f29de5668778b5835f719fd92e"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/06_-_Rubber_Soul/06_-_The_Word.txt",
       "092d3432ecd06315338b2f74df32b07f"
     ],
@@ -2028,7 +2028,7 @@
       "audio/06_-_Rubber_Soul/07_-_Michelle.wav",
       "4e0c7ea8e349f58eba28cb52d7a36001"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/06_-_Rubber_Soul/07_-_Michelle.txt",
       "e5ec7e60627913a3f1d321e778ec90e5"
     ],
@@ -2050,7 +2050,7 @@
       "audio/06_-_Rubber_Soul/08_-_What_Goes_On.wav",
       "fbc7807128259d66b04d941d236151df"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/06_-_Rubber_Soul/08_-_What_Goes_On.txt",
       "fccd92cd91250833ecc312b43c24cd9e"
     ],
@@ -2072,7 +2072,7 @@
       "audio/06_-_Rubber_Soul/09_-_Girl.wav",
       "3041ca1b230dbd22bc8d1ca3acff3f87"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/06_-_Rubber_Soul/09_-_Girl.txt",
       "470a8a11ee8b59c3cafa897a516589bb"
     ],
@@ -2094,7 +2094,7 @@
       "audio/06_-_Rubber_Soul/10_-_I'm_Looking_Through_You.wav",
       "f1e2374befbc866a6928f43af48df211"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/06_-_Rubber_Soul/10_-_I'm_Looking_Through_You.txt",
       "97ae68ac48135109e9a54ae79cc28e71"
     ],
@@ -2116,7 +2116,7 @@
       "audio/06_-_Rubber_Soul/11_-_In_My_Life.wav",
       "ecd17dc034cb9df9ad674f425dac5d25"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/06_-_Rubber_Soul/11_-_In_My_Life.txt",
       "e645423062a388eb189c2a6ec8ea7d75"
     ],
@@ -2138,7 +2138,7 @@
       "audio/06_-_Rubber_Soul/12_-_Wait.wav",
       "a7415f89587f4960e19aacaa0e23f004"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/06_-_Rubber_Soul/12_-_Wait.txt",
       "5544bc518d588b82fc8ea9663c3e514b"
     ],
@@ -2160,7 +2160,7 @@
       "audio/06_-_Rubber_Soul/13_-_If_I_Needed_Someone.wav",
       "46558f58db6acd155bf3a360a38ec2e8"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/06_-_Rubber_Soul/13_-_If_I_Needed_Someone.txt",
       "dc1b71b152671becbab33c590a0f2d52"
     ],
@@ -2182,7 +2182,7 @@
       "audio/06_-_Rubber_Soul/14_-_Run_For_Your_Life.wav",
       "0694fc1ba1d6c71b19fc3a569a46f023"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/06_-_Rubber_Soul/14_-_Run_For_Your_Life.txt",
       "9b8ed02d928ab733f80ffd2231ffa5ff"
     ],
@@ -2204,7 +2204,7 @@
       "audio/12_-_Let_It_Be/01_-_Two_of_Us.wav",
       "223da09fac728e79361a4a7e6f4f558f"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/12_-_Let_It_Be/01_-_Two_of_Us.txt",
       "f209cb36d14743b2344e88a6acb8c491"
     ],
@@ -2226,7 +2226,7 @@
       "audio/12_-_Let_It_Be/02_-_Dig_a_Pony.wav",
       "4ed244f19afbb0302c20605f8d245f33"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/12_-_Let_It_Be/02_-_Dig_a_Pony.txt",
       "f2c2a0b2bfca1108a2d2377108631cbe"
     ],
@@ -2248,7 +2248,7 @@
       "audio/12_-_Let_It_Be/03_-_Across_the_Universe.wav",
       "2b8d79dac2f32fbf38d75c497fc897f0"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/12_-_Let_It_Be/03_-_Across_the_Universe.txt",
       "ebb73e1d113fae12bed8122cfa141ea1"
     ],
@@ -2270,7 +2270,7 @@
       "audio/12_-_Let_It_Be/04_-_I_Me_Mine.wav",
       "50b7d51c48ea4c8be8d0718455407db3"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/12_-_Let_It_Be/04_-_I_Me_Mine.txt",
       "9556a445cd0e509b3d07d3304b0efe43"
     ],
@@ -2292,7 +2292,7 @@
       "audio/12_-_Let_It_Be/05_-_Dig_It.wav",
       "3fc4a0acff4b282c116aef1765f48b78"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/12_-_Let_It_Be/05_-_Dig_It.txt",
       "fadab65a88bb48dda9cb42e48ae9c081"
     ],
@@ -2314,7 +2314,7 @@
       "audio/12_-_Let_It_Be/06_-_Let_It_Be.wav",
       "2e0e0503390707fdc778ef1da5c4304b"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/12_-_Let_It_Be/06_-_Let_It_Be.txt",
       "15a1e3e83ecb5491be731072bf8164e5"
     ],
@@ -2336,7 +2336,7 @@
       "audio/12_-_Let_It_Be/07_-_Maggie_Mae.wav",
       "8113acd8536cb57a0e398f8678287087"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/12_-_Let_It_Be/07_-_Maggie_Mae.txt",
       "69a034e916dc333cb08f073a25ccc03f"
     ],
@@ -2358,7 +2358,7 @@
       "audio/12_-_Let_It_Be/08_-_I've_Got_A_Feeling.wav",
       "79957054522f743cd35287612d421cc8"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/12_-_Let_It_Be/08_-_I've_Got_A_Feeling.txt",
       "73f5bbfb386d8ec766406d372dea705a"
     ],
@@ -2380,7 +2380,7 @@
       "audio/12_-_Let_It_Be/09_-_One_After_909.wav",
       "84025b92e9b438b9190e2e7b69d45976"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/12_-_Let_It_Be/09_-_One_After_909.txt",
       "d65f46f2e275b725dcd9fa63f9d4ea21"
     ],
@@ -2402,7 +2402,7 @@
       "audio/12_-_Let_It_Be/10_-_The_Long_and_Winding_Road.wav",
       "338a5b0d9d68bb3adcb800987e43ae64"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/12_-_Let_It_Be/10_-_The_Long_and_Winding_Road.txt",
       "6fbcb7e1d93321faaee736702613d3c3"
     ],
@@ -2424,7 +2424,7 @@
       "audio/12_-_Let_It_Be/11_-_For_You_Blue.wav",
       "1d54d0c7d3c6c442cb1f14d56703471a"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/12_-_Let_It_Be/11_-_For_You_Blue.txt",
       "22ebca690895ae28f615ad9093f24324"
     ],
@@ -2446,7 +2446,7 @@
       "audio/12_-_Let_It_Be/12_-_Get_Back.wav",
       "02477997f0d6d4a7ca94aea0fea5ad8d"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/12_-_Let_It_Be/12_-_Get_Back.txt",
       "46f30ad83132e616938109306104930c"
     ],
@@ -2468,7 +2468,7 @@
       "audio/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/01_-_Sgt._Pepper's_Lonely_Hearts_Club_Band.wav",
       "a02057c8ca1cfdc131045a09e2d15c58"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/01_-_Sgt._Pepper's_Lonely_Hearts_Club_Band.txt",
       "2e73f861253f9488f385d091b0858059"
     ],
@@ -2490,7 +2490,7 @@
       "audio/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/02_-_With_A_Little_Help_From_My_Friends.wav",
       "8adbc3039c155455848f1fbe24049824"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/02_-_With_A_Little_Help_From_My_Friends.txt",
       "e935bfd67188391ca9e3728a7a99912f"
     ],
@@ -2512,7 +2512,7 @@
       "audio/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/03_-_Lucy_In_The_Sky_With_Diamonds.wav",
       "b7497ff2bf909bebaef878dabe214973"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/03_-_Lucy_In_The_Sky_With_Diamonds.txt",
       "cbbcf0cfd77922b4897d7ae1aceaa1c9"
     ],
@@ -2534,7 +2534,7 @@
       "audio/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/04_-_Getting_Better.wav",
       "699927f06a25454e17561745ec386646"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/04_-_Getting_Better.txt",
       "e5b6acf7922f881ae2d2c0e425a41a18"
     ],
@@ -2556,7 +2556,7 @@
       "audio/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/05_-_Fixing_A_Hole.wav",
       "f6d3d0d576566f6afe15a48f3b200a62"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/05_-_Fixing_A_Hole.txt",
       "07141ce407b51a65d0121924c5769f72"
     ],
@@ -2578,7 +2578,7 @@
       "audio/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/06_-_She's_Leaving_Home.wav",
       "1b5cf5501ec10e0a759efe736e9145f4"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/06_-_She's_Leaving_Home.txt",
       "83e2b305dacc863a871a7b8131d7f3d1"
     ],
@@ -2600,7 +2600,7 @@
       "audio/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/07_-_Being_For_The_Benefit_Of_Mr._Kite!.wav",
       "5d2f4fb8d61a2b7a9c12c24817380911"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/07_-_Being_For_The_Benefit_Of_Mr._Kite!.txt",
       "888d38efa1804d33a8f4885a3cf37796"
     ],
@@ -2622,7 +2622,7 @@
       "audio/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/08_-_Within_You_Without_You.wav",
       "2fb82a308d2f9075f2f31590d3ab62c9"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/08_-_Within_You_Without_You.txt",
       "ed6ca5d1a52850b277ba0ce645271a46"
     ],
@@ -2644,7 +2644,7 @@
       "audio/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/09_-_When_I'm_Sixty-Four.wav",
       "98015d71d9e5dded7c55365f3e1c49d3"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/09_-_When_I'm_Sixty-Four.txt",
       "f81986c85cda523399b309c680212fcc"
     ],
@@ -2666,7 +2666,7 @@
       "audio/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/10_-_Lovely_Rita.wav",
       "15c69d66ec8ed07fa83044a56736ceae"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/10_-_Lovely_Rita.txt",
       "bdea56f380f2eaf4301d022752423039"
     ],
@@ -2688,7 +2688,7 @@
       "audio/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/11_-_Good_Morning_Good_Morning.wav",
       "4abffd4277a2c23af08497009ff47793"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/11_-_Good_Morning_Good_Morning.txt",
       "d8fd9442f8606bdee314ed15f6aff084"
     ],
@@ -2710,7 +2710,7 @@
       "audio/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/12_-_Sgt._Pepper's_Lonely_Hearts_Club_Band_(Reprise).wav",
       "9d15445b048cd257bfa54fdd07ec7afe"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/12_-_Sgt._Pepper's_Lonely_Hearts_Club_Band_(Reprise).txt",
       "7d8a3cf26d7836914436b881cc017440"
     ],
@@ -2732,7 +2732,7 @@
       "audio/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/13_-_A_Day_In_The_Life.wav",
       "49a26283dc4044243e4510fad2053cea"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/13_-_A_Day_In_The_Life.txt",
       "91df6c53fa0a9fb6b03eaeb51c37e55a"
     ],
@@ -2754,7 +2754,7 @@
       "audio/10CD2_-_The_Beatles/CD2_-_01_-_Birthday.wav",
       "74dfac0b442d6d226251e788fe74700d"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/10CD2_-_The_Beatles/CD2_-_01_-_Birthday.txt",
       "2620f6652b85aa6121f056eb36ec007a"
     ],
@@ -2776,7 +2776,7 @@
       "audio/10CD2_-_The_Beatles/CD2_-_02_-_Yer_Blues.wav",
       "ceb5367deb9db0947cd3b1f30506030e"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/10CD2_-_The_Beatles/CD2_-_02_-_Yer_Blues.txt",
       "a7f3987add61e2ea149b6d75b7f3c2d3"
     ],
@@ -2798,7 +2798,7 @@
       "audio/10CD2_-_The_Beatles/CD2_-_03_-_Mother_Nature's_Son.wav",
       "7618efae25abadbb0a5dbe0e8ecee0fb"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/10CD2_-_The_Beatles/CD2_-_03_-_Mother_Nature's_Son.txt",
       "f53651cb17832ab47f841ab285297973"
     ],
@@ -2820,7 +2820,7 @@
       "audio/10CD2_-_The_Beatles/CD2_-_04_-_Everybody's_Got_Something_To_Hide_Except_Me_and_My_Monkey.wav",
       "608c7427af13bcf84f64f3c3d7c03af2"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/10CD2_-_The_Beatles/CD2_-_04_-_Everybody's_Got_Something_To_Hide_Except_Me_and_My_Monkey.txt",
       "3f1d31e5669e747c77f85d31273b0796"
     ],
@@ -2842,7 +2842,7 @@
       "audio/10CD2_-_The_Beatles/CD2_-_05_-_Sexy_Sadie.wav",
       "fc5a88509783cb56da677470f0229396"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/10CD2_-_The_Beatles/CD2_-_05_-_Sexy_Sadie.txt",
       "1523b698cb49105f5a5afad960691b5c"
     ],
@@ -2864,7 +2864,7 @@
       "audio/10CD2_-_The_Beatles/CD2_-_06_-_Helter_Skelter.wav",
       "c500e063084e65b6eb6f0eb2ea8f0261"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/10CD2_-_The_Beatles/CD2_-_06_-_Helter_Skelter.txt",
       "1fd8af27a1ddb6906dffe7407ac15b0f"
     ],
@@ -2886,7 +2886,7 @@
       "audio/10CD2_-_The_Beatles/CD2_-_07_-_Long_Long_Long.wav",
       "e89f74f01e324351ec41e4d4d79cee24"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/10CD2_-_The_Beatles/CD2_-_07_-_Long_Long_Long.txt",
       "a07b4f63c7627f25635c9f68f210e621"
     ],
@@ -2908,7 +2908,7 @@
       "audio/10CD2_-_The_Beatles/CD2_-_08_-_Revolution_1.wav",
       "ac56bf092f14f40a6e5ffec7079e7cec"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/10CD2_-_The_Beatles/CD2_-_08_-_Revolution_1.txt",
       "c916cabf39f2ee76a8205773228e6bfb"
     ],
@@ -2930,7 +2930,7 @@
       "audio/10CD2_-_The_Beatles/CD2_-_09_-_Honey_Pie.wav",
       "c2511c6d231f4eb66554db8a706e64e4"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/10CD2_-_The_Beatles/CD2_-_09_-_Honey_Pie.txt",
       "c12b98d57ff9740489041b35b002b9c2"
     ],
@@ -2952,7 +2952,7 @@
       "audio/10CD2_-_The_Beatles/CD2_-_10_-_Savoy_Truffle.wav",
       "3c74e4d540723c524a01a6a1c5396356"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/10CD2_-_The_Beatles/CD2_-_10_-_Savoy_Truffle.txt",
       "30e9ac2c904099f84d5afeee5fe3b5a5"
     ],
@@ -2974,7 +2974,7 @@
       "audio/10CD2_-_The_Beatles/CD2_-_11_-_Cry_Baby_Cry.wav",
       "f63fb6cf57975962ebd1e13fec588cd5"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/10CD2_-_The_Beatles/CD2_-_11_-_Cry_Baby_Cry.txt",
       "652747d7b9fbd94eaef22770a20ca953"
     ],
@@ -2996,7 +2996,7 @@
       "audio/10CD2_-_The_Beatles/CD2_-_12_-_Revolution_9.wav",
       "b2db9d775f17f0416d5ae3a0791fc9fb"
     ],
-    "beat": [
+    "beats": [
       null,
       null
     ],
@@ -3018,7 +3018,7 @@
       "audio/10CD2_-_The_Beatles/CD2_-_13_-_Good_Night.wav",
       "81564b8f8f9d913dc4f0523eb49f252f"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/10CD2_-_The_Beatles/CD2_-_13_-_Good_Night.txt",
       "56403d5909f384921a3acbe0bff00a5f"
     ],
@@ -3040,7 +3040,7 @@
       "audio/09_-_Magical_Mystery_Tour/01_-_Magical_Mystery_Tour.wav",
       "34437d8aec49882b2b9e24ff46cb7564"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/09_-_Magical_Mystery_Tour/01_-_Magical_Mystery_Tour.txt",
       "16a3351dd2da4919b531c1679b6f312f"
     ],
@@ -3062,7 +3062,7 @@
       "audio/09_-_Magical_Mystery_Tour/02_-_The_Fool_On_The_Hill.wav",
       "48e76a5569296e194117c3266a8df5fa"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/09_-_Magical_Mystery_Tour/02_-_The_Fool_On_The_Hill.txt",
       "418c16a85e3f7d70058695bccaa9cb53"
     ],
@@ -3084,7 +3084,7 @@
       "audio/09_-_Magical_Mystery_Tour/03_-_Flying.wav",
       "4187b7a2e69bacab06f10877129e2f51"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/09_-_Magical_Mystery_Tour/03_-_Flying.txt",
       "00671ce082a2862f82a5b4a2a4d5d1ca"
     ],
@@ -3106,7 +3106,7 @@
       "audio/09_-_Magical_Mystery_Tour/04_-_Blue_Jay_Way.wav",
       "3af87b85afc78ec9d4be0bcd524e7bd1"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/09_-_Magical_Mystery_Tour/04_-_Blue_Jay_Way.txt",
       "26185f211c26d17a72a098e260c6b700"
     ],
@@ -3128,7 +3128,7 @@
       "audio/09_-_Magical_Mystery_Tour/05_-_Your_Mother_Should_Know.wav",
       "941138101ba3a034be181e52daa57438"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/09_-_Magical_Mystery_Tour/05_-_Your_Mother_Should_Know.txt",
       "8338f5de428e7f02a02bd935ad2818d1"
     ],
@@ -3150,7 +3150,7 @@
       "audio/09_-_Magical_Mystery_Tour/06_-_I_Am_The_Walrus.wav",
       "ac75430caf8d536cbd3a612c539e310a"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/09_-_Magical_Mystery_Tour/06_-_I_Am_The_Walrus.txt",
       "2c9fac6a92fc7c162f2585fc369a383e"
     ],
@@ -3172,7 +3172,7 @@
       "audio/09_-_Magical_Mystery_Tour/07_-_Hello_Goodbye.wav",
       "99a8540739b650d78d096c4bb94d1574"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/09_-_Magical_Mystery_Tour/07_-_Hello_Goodbye.txt",
       "605bf3e6148c60fdc53c11d5554a617e"
     ],
@@ -3194,7 +3194,7 @@
       "audio/09_-_Magical_Mystery_Tour/08_-_Strawberry_Fields_Forever.wav",
       "b19b939c74841dc318b6d8aeb673d775"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/09_-_Magical_Mystery_Tour/08_-_Strawberry_Fields_Forever.txt",
       "151e44597d49d7adeebfb8b8b9fe8f29"
     ],
@@ -3216,7 +3216,7 @@
       "audio/09_-_Magical_Mystery_Tour/09_-_Penny_Lane.wav",
       "2b1d6822d5fd708d60564a16e41f7ae6"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/09_-_Magical_Mystery_Tour/09_-_Penny_Lane.txt",
       "35291772d4d5006060e05445acfa669f"
     ],
@@ -3238,7 +3238,7 @@
       "audio/09_-_Magical_Mystery_Tour/10_-_Baby_You're_A_Rich_Man.wav",
       "a6a1348051db6d4b7b9b9c8743d3da28"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/09_-_Magical_Mystery_Tour/10_-_Baby_You're_A_Rich_Man.txt",
       "a4b7170427ea9631dd03b525a34c81d7"
     ],
@@ -3260,7 +3260,7 @@
       "audio/09_-_Magical_Mystery_Tour/11_-_All_You_Need_Is_Love.wav",
       "307cfeebeda14f9cc802d85f31312b28"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/09_-_Magical_Mystery_Tour/11_-_All_You_Need_Is_Love.txt",
       "ffdd49993e54a1018d1c6fab9735e62f"
     ],
@@ -3282,7 +3282,7 @@
       "audio/05_-_Help!/01_-_Help!.wav",
       "2b7fa8750bbe1e6972777cfa65e43e4d"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/05_-_Help!/01_-_Help!.txt",
       "01f5bcfb47fba1b598572ddfe86515b7"
     ],
@@ -3304,7 +3304,7 @@
       "audio/05_-_Help!/02_-_The_Night_Before.wav",
       "c5d31a9360560e6544feb341918f6c86"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/05_-_Help!/02_-_The_Night_Before.txt",
       "5ed610b519b4271cbf42940e49379ae3"
     ],
@@ -3326,7 +3326,7 @@
       "audio/05_-_Help!/03_-_You've_Got_To_Hide_Your_Love_Away.wav",
       "4209be0fef496800c4cf4b2b15080f4b"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/05_-_Help!/03_-_You've_Got_To_Hide_Your_Love_Away.txt",
       "63f6678991f3be9a57b66fe2d1d642cf"
     ],
@@ -3348,7 +3348,7 @@
       "audio/05_-_Help!/04_-_I_Need_You.wav",
       "c54169dbdaed929647c1ebc3304c6b53"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/05_-_Help!/04_-_I_Need_You.txt",
       "d5ff59c707deb752fda2f585868f46e6"
     ],
@@ -3370,7 +3370,7 @@
       "audio/05_-_Help!/05_-_Another_Girl.wav",
       "2e15026bf888a5542ec39a93fa4c6dd6"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/05_-_Help!/05_-_Another_Girl.txt",
       "4d4b24dde7afb8260438e2aa253db58d"
     ],
@@ -3392,7 +3392,7 @@
       "audio/05_-_Help!/06_-_You're_Going_To_Lose_That_Girl.wav",
       "3636e1a3f4df9bf9a38e2f202ab5cc84"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/05_-_Help!/06_-_You're_Going_To_Lose_That_Girl.txt",
       "30fe3248444f7640299ab590f477f036"
     ],
@@ -3414,7 +3414,7 @@
       "audio/05_-_Help!/07_-_Ticket_To_Ride.wav",
       "28addc114ad116e2ef8f0bbf310434de"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/05_-_Help!/07_-_Ticket_To_Ride.txt",
       "e7c0d2ecc13f698911df30663a641847"
     ],
@@ -3436,7 +3436,7 @@
       "audio/05_-_Help!/08_-_Act_Naturally.wav",
       "63f65d49a4ceb9e1048d149da2a11e12"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/05_-_Help!/08_-_Act_Naturally.txt",
       "6c6b6840401a26ea267054f61b4592e0"
     ],
@@ -3458,7 +3458,7 @@
       "audio/05_-_Help!/09_-_It's_Only_Love.wav",
       "76fc0d643073da1e8176feebdcc6802c"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/05_-_Help!/09_-_It's_Only_Love.txt",
       "db0a5de2fe154ceccce8c59300e3f36d"
     ],
@@ -3480,7 +3480,7 @@
       "audio/05_-_Help!/10_-_You_Like_Me_Too_Much.wav",
       "4212ff4df54687cbbe733385f158bc75"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/05_-_Help!/10_-_You_Like_Me_Too_Much.txt",
       "6ac48006cc420a4f02e64f80241c3323"
     ],
@@ -3502,7 +3502,7 @@
       "audio/05_-_Help!/11_-_Tell_Me_What_You_See.wav",
       "e303fb8bd8f0e2b582212c05894ce40e"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/05_-_Help!/11_-_Tell_Me_What_You_See.txt",
       "0e55ddb76291708e0eda03c59e05da7c"
     ],
@@ -3524,7 +3524,7 @@
       "audio/05_-_Help!/12_-_I've_Just_Seen_a_Face.wav",
       "663c379a8234b0559111d5424d87889e"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/05_-_Help!/12_-_I've_Just_Seen_a_Face.txt",
       "4c65d13a803f591bda47388c1ca28f2c"
     ],
@@ -3546,7 +3546,7 @@
       "audio/05_-_Help!/13_-_Yesterday.wav",
       "fd392b95b6b736d46393fead9355e692"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/05_-_Help!/13_-_Yesterday.txt",
       "5372c8180fe7e4f029f11f34f844510a"
     ],
@@ -3568,7 +3568,7 @@
       "audio/05_-_Help!/14_-_Dizzy_Miss_Lizzy.wav",
       "20df39f80001da7154f2d04e6ea7177f"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/05_-_Help!/14_-_Dizzy_Miss_Lizzy.txt",
       "c0e686f85f2a3580617438e7989e7084"
     ],
@@ -3590,7 +3590,7 @@
       "audio/10CD1_-_The_Beatles/CD1_-_01_-_Back_in_the_USSR.wav",
       "0743274bd505ad90d5bdb619078d9e9b"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/10CD1_-_The_Beatles/CD1_-_01_-_Back_in_the_USSR.txt",
       "f143ab39a3fa21af2c8bebf999541987"
     ],
@@ -3612,7 +3612,7 @@
       "audio/10CD1_-_The_Beatles/CD1_-_02_-_Dear_Prudence.wav",
       "3be65857c3b9e76e5011a763e2407ee0"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/10CD1_-_The_Beatles/CD1_-_02_-_Dear_Prudence.txt",
       "1e5da01807f528d4c724223fe39904b4"
     ],
@@ -3634,7 +3634,7 @@
       "audio/10CD1_-_The_Beatles/CD1_-_03_-_Glass_Onion.wav",
       "b79e24b6a95aba0d411787916c285564"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/10CD1_-_The_Beatles/CD1_-_03_-_Glass_Onion.txt",
       "c1f8ce7026c6bef6fe21828ab3a7680d"
     ],
@@ -3656,7 +3656,7 @@
       "audio/10CD1_-_The_Beatles/CD1_-_04_-_Ob-La-Di,_Ob-La-Da.wav",
       "cfe1479c77be87cc5f0f793dfdb44a56"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/10CD1_-_The_Beatles/CD1_-_04_-_Ob-La-Di,_Ob-La-Da.txt",
       "88d54d9a0efb699f402b6d4d50d4f725"
     ],
@@ -3678,7 +3678,7 @@
       "audio/10CD1_-_The_Beatles/CD1_-_05_-_Wild_Honey_Pie.wav",
       "bb8d4cbefcab68aabed83134f92c4a0c"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/10CD1_-_The_Beatles/CD1_-_05_-_Wild_Honey_Pie.txt",
       "df4c3474b0a0c04f8e3b97f0e915bcf7"
     ],
@@ -3700,7 +3700,7 @@
       "audio/10CD1_-_The_Beatles/CD1_-_06_-_The_Continuing_Story_of_Bungalow_Bill.wav",
       "fcb6245a60b161b66d2c8832b6d2c316"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/10CD1_-_The_Beatles/CD1_-_06_-_The_Continuing_Story_of_Bungalow_Bill.txt",
       "998bb6d1bfe8af540c5e4bb96efab0aa"
     ],
@@ -3722,7 +3722,7 @@
       "audio/10CD1_-_The_Beatles/CD1_-_07_-_While_My_Guitar_Gently_Weeps.wav",
       "b49cf3379a4aea77091dcb3dd6e1e163"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/10CD1_-_The_Beatles/CD1_-_07_-_While_My_Guitar_Gently_Weeps.txt",
       "8a170b7516801410d15d634abf196084"
     ],
@@ -3744,7 +3744,7 @@
       "audio/10CD1_-_The_Beatles/CD1_-_08_-_Happiness_is_a_Warm_Gun.wav",
       "0dbf4778ca811181d68475ce49c51c44"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/10CD1_-_The_Beatles/CD1_-_08_-_Happiness_is_a_Warm_Gun.txt",
       "b59b88282f420b968fa8afac3b3d30aa"
     ],
@@ -3766,7 +3766,7 @@
       "audio/10CD1_-_The_Beatles/CD1_-_09_-_Martha_My_Dear.wav",
       "f4cadcbc174d66adfc366f88e0cd7800"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/10CD1_-_The_Beatles/CD1_-_09_-_Martha_My_Dear.txt",
       "b07ad7e10fbfa032e03612cff670eb29"
     ],
@@ -3788,7 +3788,7 @@
       "audio/10CD1_-_The_Beatles/CD1_-_10_-_I'm_So_Tired.wav",
       "da2ce04c69080d6b752e39140628f293"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/10CD1_-_The_Beatles/CD1_-_10_-_I'm_So_Tired.txt",
       "4f9ea284def6950cb3c6f9b3727029a3"
     ],
@@ -3810,7 +3810,7 @@
       "audio/10CD1_-_The_Beatles/CD1_-_11_-_Black_Bird.wav",
       "f2b01eff36a65efd12fefd8f1e82d627"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/10CD1_-_The_Beatles/CD1_-_11_-_Black_Bird.txt",
       "e07bc652eaee0e514ed80a051dfa7ed6"
     ],
@@ -3832,7 +3832,7 @@
       "audio/10CD1_-_The_Beatles/CD1_-_12_-_Piggies.wav",
       "47bfc3073bee3b7e11d24c80718acf6e"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/10CD1_-_The_Beatles/CD1_-_12_-_Piggies.txt",
       "8464fdf87fbae301df45a4640b312417"
     ],
@@ -3854,7 +3854,7 @@
       "audio/10CD1_-_The_Beatles/CD1_-_13_-_Rocky_Raccoon.wav",
       "312b0c98c2537c03b7ca74f171ba4478"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/10CD1_-_The_Beatles/CD1_-_13_-_Rocky_Raccoon.txt",
       "f7f295dfdef735c92d1515f8697528e1"
     ],
@@ -3876,7 +3876,7 @@
       "audio/10CD1_-_The_Beatles/CD1_-_14_-_Don't_Pass_Me_By.wav",
       "5522a89d564d086de691997f1582c41c"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/10CD1_-_The_Beatles/CD1_-_14_-_Don't_Pass_Me_By.txt",
       "795d9dcd537c174a3f130780a58aadff"
     ],
@@ -3898,7 +3898,7 @@
       "audio/10CD1_-_The_Beatles/CD1_-_15_-_Why_Don't_We_Do_It_In_The_Road.wav",
       "f34a01e6450e8cfc3770605a439fa1b5"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/10CD1_-_The_Beatles/CD1_-_15_-_Why_Don't_We_Do_It_In_The_Road.txt",
       "f5ed27fce8d9d2b38a62d116bc552969"
     ],
@@ -3920,7 +3920,7 @@
       "audio/10CD1_-_The_Beatles/CD1_-_16_-_I_Will.wav",
       "77caedc153bb669caf6794edc1460e78"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/10CD1_-_The_Beatles/CD1_-_16_-_I_Will.txt",
       "63d86ea8759b2fe2a722f6bb106d80b1"
     ],
@@ -3942,7 +3942,7 @@
       "audio/10CD1_-_The_Beatles/CD1_-_17_-_Julia.wav",
       "28705b4e28e15598a9bbf884630ad5fb"
     ],
-    "beat": [
+    "beats": [
       "annotations/beat/The Beatles/10CD1_-_The_Beatles/CD1_-_17_-_Julia.txt",
       "99a320d61c7dcb16564973c81ad5e888"
     ],
